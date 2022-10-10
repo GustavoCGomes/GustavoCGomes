@@ -1,4 +1,4 @@
-Olá eu sou o Gustavo Gomes👋
+<strong>Olá eu sou o Gustavo Gomes</strong>👋
 
 🌱 Atualmente estou estudando HTML, CSS e JavaScript.
 <!--
