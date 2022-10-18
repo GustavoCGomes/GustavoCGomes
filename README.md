@@ -38,5 +38,5 @@ Here are some ideas to get you started:
   <a href = "href="https://t.me/GustavoCGomes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"</a>
   <a href="https://www.linkedin.com/in/gustavo-gomes-793196134/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/GustavoCGomes/GustavoCGomes/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
