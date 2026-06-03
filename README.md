@@ -1,6 +1,8 @@
 <strong>Olá eu sou o Gustavo Gomes</strong>👋
 
-🌱 Atualmente estou estudando HTML, CSS, JavaScript, React.
+🌱 Aprendendo cada vez mais sobre HTML, CSS, JavaScript, React e Node.js.
+
+Um passo de cada vez na jornada para me tornar um desenvolvedor full-stack. 💻
 <!--
 **GustavoCGomes/GustavoCGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
