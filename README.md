@@ -1,6 +1,6 @@
 <strong>Olá eu sou o Gustavo Gomes</strong>👋
 
-🌱 Atualmente estou estudando HTML, CSS e JavaScript.
+🌱 Atualmente estou estudando HTML, CSS, JavaScript, React.
 <!--
 **GustavoCGomes/GustavoCGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
